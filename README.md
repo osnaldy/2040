@@ -12,5 +12,5 @@ Description: Find the index of a string in an array. Same steps as above, in ord
 #Step IV   Prefix
 Description: Given a prefix and an array of strings, return an array of strings that do NOT begin with the prefix. ame steps as above, in              order to accomplish my task, I imported two different Python libraries.
 
-#Step IV   The Dating Game
+#Step V   The Dating Game
 Description: Add a set amount of seconds to an ISO 8601 formatted date. Same steps as above, in order to accomplish my task, I imported                two different Python libraries.
