@@ -3,7 +3,7 @@ import requests
 
 url1 = "http://challenge.code2040.org/api/prefix"
 url2 = "http://challenge.code2040.org/api/prefix/validate"
-token = "c77d77461928cfefd86f1485d2c54108"
+token = "<TOKEN>"
 headers = {'Content-type': 'application/json'}
 
 r = json.dumps({"token": token})
