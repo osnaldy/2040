@@ -1,10 +1,9 @@
 # Code2040 API Challenges for 2017 Fellows Application
 
+#Step I    Registration
+Description: Send a POST request and connect to registration endpoint. Used two different Python Libraries to accomplish this task.
 
-| #Step     | Name               | Description                                                                                          
-|--------------------------------|------------------------------------------------------------------------------------------------------|
-
-| #Step I   |   Registration     | Send a POST request and connect to registration endpoint. Used two different Python Libraries to     |                                  | accomplish this task.                                                                                |
+|    |   Registration     |     |                                  |                                                                                 |
 |----------|-----------------------------------------------------------------------------------------------------------------------------|
 
 | Step II  |   Reverse a String   | Send a POST request to get a string, send it back reversed. Same steps as above, in order to         | |          |                      | accomplish my task, I imported two different Python libraries                                        | 
